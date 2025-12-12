@@ -12,4 +12,4 @@ files in "SourceCode2_JaccardAnalysis" are for detecting signal peaks, "forward 
 files in "SourceCode3_ezTrackAlignmentVelocityAnalysis" are for calculating the velocity of the animal from behavior videos processed with this pipline: 
 https://github.com/denisecailab/ezTrack.git
 
-file in "SourceCode4_SCIAnalysis" are for calculating the "Spatial Correlation Index" from the calcium imaging data as described in in the paper
+file in "SourceCode4_SCIAnalysis" are for calculating the "Spatial Correlation Index" from the calcium imaging data as described in the paper
